@@ -9,7 +9,7 @@ function setup(){
     var canvas = createCanvas(400,400);
     engine = Engine.create();
     world = engine.world;
-
+console.log("Heelo Vanisha")
     var ground_options ={
         isStatic: true
     }

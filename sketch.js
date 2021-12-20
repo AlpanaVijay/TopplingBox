@@ -10,6 +10,7 @@ function setup(){
     engine = Engine.create();
     world = engine.world;
 console.log("Heelo Vanisha")
+    console.log("Heelo agian");
     var ground_options ={
         isStatic: true
     }
